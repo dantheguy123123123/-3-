@@ -1,0 +1,3 @@
+mystudent = student()
+mystudent.setName("Alex Ignatov")
+mystudent.displayName()
